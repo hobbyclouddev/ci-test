@@ -16,16 +16,6 @@ public class LoginTest {
 		assertTrue(" ok",true);
 	}
 
-	public static boolean TryLogin()
-	{
-		assertTrue(" ok",true);
-	}
-
-	public static boolean TryRegistration()
-	{
-		assertTrue(" ok",true);
-	}
-
 	@Test
 	public  void RegistrationTest() {
 		assertTrue(" ok",true);
